@@ -13,7 +13,7 @@ public class InsertionSort {
         for (int i = 1; i < arr.length; i++) {
             int curr = arr[i]; // Store the current element to be positioned.
             int prev = i - 1; // Initialize 'prev' to the last index of the sorted part.
-kk
+
             // Shift elements to the right to make space for 'curr'.
             while (prev >= 0 && arr[prev] > curr) {
                 arr[prev + 1] = arr[prev]; // Move elements greater than 'curr' one position to the right.
