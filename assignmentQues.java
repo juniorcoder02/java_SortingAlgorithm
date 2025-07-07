@@ -1,5 +1,4 @@
 
-import java.util.concurrent.CountDownLatch;
 
 //Question : Use the following sorting algorithms to sort an array in DESCENDING order 
 // a. Bubble Sort 
